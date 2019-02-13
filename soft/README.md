@@ -1,6 +1,6 @@
 #软件
 
-##windows
+##windows  windows.zip已经存储到邮箱
 
 AtomSetup-x64.exe
 
